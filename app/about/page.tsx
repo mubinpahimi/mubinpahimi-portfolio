@@ -14,7 +14,7 @@ export default function AboutPage() {
     {
       title: "UI/UX Designer",
       company: "Mandrill Tech Sdn Bhd · Full-time",
-      date: "Oct 2022 - Apr 2025 · 2 yrs 7 mos",
+      date: "Oct 2022 - Apr 2025",
     },
     {
       title: "UI/UX Designer",

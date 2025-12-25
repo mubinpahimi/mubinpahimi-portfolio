@@ -8,7 +8,7 @@ const socials = [
 	{
 		icon: <Linkedin size={20} />,
 		href: "https://www.linkedin.com/in/wan-mubin-pahimi-99214b173/",
-		label: "Twitter",
+		label: "Linkedin",
 		handle: "@wanmubin",
 	},
 	{
