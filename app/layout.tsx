@@ -18,7 +18,7 @@ export const metadata: Metadata = {
     siteName: "mubinpahimi.com",
     images: [
       {
-        url: "https://chronark.com/og.png",
+        url: "https://imgur.com/a/vPvR1j6",
         width: 1920,
         height: 1080,
       },
@@ -38,7 +38,7 @@ export const metadata: Metadata = {
     },
   },
   twitter: {
-    title: "Chronark",
+    title: "Mubin",
     card: "summary_large_image",
   },
   icons: {
