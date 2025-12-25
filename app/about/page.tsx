@@ -64,6 +64,22 @@ export default function AboutPage() {
           </p>
         </div>
 
+		<div className="mt-6">
+  <a
+    href="https://drive.google.com/file/d/1baNrODQRya23-dqDmdX_jHq2USnzBiZ7/view"
+    target="_blank"
+    rel="noopener noreferrer"
+    className="inline-block px-12 py-4 text-sm font-medium uppercase text-black bg-white rounded-lg shadow-md
+               hover:bg-zinc-800 hover:text-white transition-colors duration-500"
+  >
+    View My Resume
+  </a>
+</div>
+
+
+
+
+
         <div className="w-full h-px bg-zinc-800" />
 
         {/* Career Journey Section */}
